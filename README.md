@@ -77,9 +77,6 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-
-
-
  
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -94,17 +91,7 @@ Analog simulation by SPECTRE.
 
 
 For Transient Analysis Settings and Output
- 
- 
- 
 
-
- 
-
-
-
-
- 
 
 Results:
 The design and implementation of the 6T SRAM cell using Cadence EDA tools were successfully achieved. Simulation results validated the correct functionality and performance of the SRAM cell, including stable read/write operations,
