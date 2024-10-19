@@ -1,8 +1,8 @@
 # Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+Ex No: 01     Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 Aim:
-To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
+To design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools, simulate its functionality, and analyze key performance parameters such as read/write operations, power consumption, and stability to understand its behavior in memory design.
 
 Tools Required:
 •	Personal Computer
@@ -107,10 +107,7 @@ For Transient Analysis Settings and Output
  
 
 Results:
-1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
-2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
-3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
-
+The design and implementation of the 6T SRAM cell using Cadence EDA tools were successfully achieved. Simulation results validated the correct functionality and performance of the SRAM cell, including stable read/write operations,
 
 
 
